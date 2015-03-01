@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Whisted</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_a_suit_fragment_title">Select a suit</string>
+    <string name="place_a_bid_fragment_title">Place a bid</string>
+    <string name="player_played_wrong_suit">"Please play a "</string>
+    <string name="bid_fragment_pass">pass</string>
+    <string name="trump_is">"Trump is "</string>
+    <string name="bid_is_now">"Bid is now: "</string>
+    <string name="player_passes">Player passes</string>
+    <string name="bid_is_not_bigger">Bid is not bigger than previous bid of </string>
+    <string name="contract_is">"Contract is: "</string>
+    <string name="you_made_contract">"you made your contract of "</string>
+    <string name="and">" and "</string>
+    <string name="extra">" extra!"</string>
+    <string name="opponent_made_contract">your opponent made their contract of </string>
+    <string name="you_set">"you were set by "</string>
+    <string name="sorry">, sorry!</string>
+    <string name="opponent_set">"you set your opponent by "</string>
+    <string name="of">" of "</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="auto_hand_title">Automate Hand Building</string>
+    <string name="auto_hand_key">AUTO_HAND_KEY</string>
+
+</resources>
